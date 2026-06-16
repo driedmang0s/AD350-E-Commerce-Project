@@ -1,0 +1,32 @@
+product_id,product_name,category,total_sold
+12,"Laptop Stand",Electronics,0
+23,"Bike Water Cage",Sports,0
+27,"Portable Fan",Home,0
+14,"Wireless Keyboard",Electronics,1
+19,"Travel Pillow",Travel,2
+26,"Desk Organizer",School,2
+31,"Graphic T-Shirt",Clothing,2
+22,"Resistance Bands",Sports,3
+13,"USB-C Hub",Electronics,4
+3,"Water Bottle",Home,5
+8,"Coffee Mug",Home,5
+24,Planner,School,5
+6,"Desk Lamp",Home,6
+21,"Soccer Ball",Sports,6
+25,"Mechanical Pencils",School,6
+28,"LED Light Strips",Electronics,6
+4,"Running Shoes",Sports,7
+16,"Air Fryer",Home,7
+18,"Storage Bins",Home,7
+20,"Duffel Bag",Travel,7
+30,"Winter Beanie",Clothing,7
+10,"Yoga Mat",Sports,8
+29,"Rain Jacket",Clothing,8
+15,"Smart Watch",Electronics,9
+17,"Throw Blanket",Home,11
+1,"Wireless Headphones",Electronics,14
+5,"Notebook Pack",School,15
+7,Backpack,School,16
+11,"Bluetooth Speaker",Electronics,25
+9,"Gaming Mouse",Electronics,30
+2,"Phone Charger",Electronics,44

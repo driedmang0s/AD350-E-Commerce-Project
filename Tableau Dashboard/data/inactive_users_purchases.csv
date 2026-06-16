@@ -1,0 +1,17 @@
+user_id,user_name,product_name,category,total_bought
+21,"Sarah Miller","Notebook Pack",School,2
+21,"Sarah Miller","Desk Organizer",School,2
+21,"Sarah Miller","Desk Lamp",Home,1
+21,"Sarah Miller",Planner,School,1
+22,"Adam Carter","Coffee Mug",Home,2
+22,"Adam Carter","Throw Blanket",Home,2
+22,"Adam Carter","Storage Bins",Home,2
+22,"Adam Carter","Water Bottle",Home,1
+23,"Nadia Ali","Rain Jacket",Clothing,2
+23,"Nadia Ali","Running Shoes",Sports,1
+23,"Nadia Ali","Yoga Mat",Sports,1
+23,"Nadia Ali","Winter Beanie",Clothing,1
+24,"Ben Davis","Travel Pillow",Travel,2
+24,"Ben Davis",Backpack,School,1
+24,"Ben Davis","Duffel Bag",Travel,1
+24,"Ben Davis","Mechanical Pencils",School,1

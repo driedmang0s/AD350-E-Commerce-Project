@@ -1,0 +1,11 @@
+user_id,user_name,email,last_purchase_date
+25,"Grace Moore",grace.moore@example.com,NULL
+26,"Ibrahim Said",ibrahim.said@example.com,NULL
+27,"Priya Patel",priya.patel@example.com,NULL
+28,"Luis Garcia",luis.garcia@example.com,NULL
+29,"Amira Osman",amira.osman@example.com,NULL
+30,"Kevin Young",kevin.young@example.com,NULL
+21,"Sarah Miller",sarah.miller@example.com,"2026-02-18 13:10:00"
+22,"Adam Carter",adam.carter@example.com,"2026-02-24 09:35:00"
+23,"Nadia Ali",nadia.ali@example.com,"2026-02-28 18:25:00"
+24,"Ben Davis",ben.davis@example.com,"2026-03-01 12:00:00"
